@@ -23,3 +23,5 @@ add s0, s0, a2
 srli t1, t1, 8
 andi a3, t1, 0xFF
 add s0, s0, a3
+
+mv t0, s0
